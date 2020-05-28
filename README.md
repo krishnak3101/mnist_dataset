@@ -1,9 +1,9 @@
 # mnist_dataset
 
 
-# installing requirements: conda install -c conda-forge mnist
+ installing requirements: conda install -c conda-forge mnist
 
-# sample code for accessing the datset
+ sample python code for accessing the datset
 
 from mnist import MNIST
 
