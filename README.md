@@ -3,7 +3,7 @@
 
  installing requirements: conda install -c conda-forge mnist
 
-sample python code for accessing the datset :
+sample python code for accessing the dataset :
 
     from mnist import MNIST
 
